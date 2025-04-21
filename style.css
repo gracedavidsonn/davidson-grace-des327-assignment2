@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #a7d6b7;
+}
+
+.container {
+    width: 600px;
+    margin: auto;
+    padding-top: 5%;
+
+}
+
+#text {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Boogaloo', Arial, Helvetica, sans-serif;
+    font-size: 92px;
+    text-transform: uppercase;
+    color: #f25e5e;
+    background-color: #ffe269;
+    padding: 20px;
+    border-radius: 100px;
+}
+
+p {
+    font-family: 'Antonio', Arial, Helvetica, sans-serif;
+    font-size: 26px;
+    color: #fff9f8;
+    padding: 40px;
+}
+
+#jukebox img {
+    width: 100%;
+}

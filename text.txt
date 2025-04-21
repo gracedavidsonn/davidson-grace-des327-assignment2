@@ -1,0 +1,5 @@
+Welcome to Grace's Diner! Press a number between 1 and 4 to play a song on our jukebox.
+
+"Song Title" by (Artist Name) is playing. Press another number between 1 and 4 to play a different song or press the space key to stop the song.
+
+The music has stopped playing. Press a number between 1 and 4 to play a song.
